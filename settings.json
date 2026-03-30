@@ -23,14 +23,22 @@
   },
   "theme_overrides": {
     "Ayu Dark": {
+      "border": "#2b2b2b",
+      "background": "#0d0d0d",
       "editor.background": "#121212",
       "toolbar.background": "#0d0d0d",
       "surface.background": "#0d0d0d",
       "editor.gutter.background": "#121212",
       "panel.background": "#0d0d0d",
-      "border": "#2b2b2b",
       "status_bar.background": "#1c1c1c",
       "title_bar.background": "#1c1c1c",
+      "terminal.background": "#0d0d0d",
+      "tab.active_background": "#0d0d0d",
+      "tab.inactive_background": "#1c1c1c",
+      "tab_bar.background": "#1c1c1c",
+      "panel.overlay_background": "#0d0d0d",
+      "editor.subheader.background": "#0d0d0d",
+      "elevated_surface.background": "#1c1c1c",
     },
   },
 }
