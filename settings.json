@@ -1,0 +1,36 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "tab_bar": {
+    "show": false,
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "ui_font_size": 15,
+  "buffer_font_size": 15,
+  "theme": {
+    "mode": "dark",
+    "light": "Gruvbox Light",
+    "dark": "Ayu Dark",
+  },
+  "theme_overrides": {
+    "Ayu Dark": {
+      "editor.background": "#121212",
+      "toolbar.background": "#0d0d0d",
+      "surface.background": "#0d0d0d",
+      "editor.gutter.background": "#121212",
+      "panel.background": "#0d0d0d",
+      "border": "#2b2b2b",
+      "status_bar.background": "#1c1c1c",
+      "title_bar.background": "#1c1c1c",
+    },
+  },
+}
